@@ -18,7 +18,7 @@ nav:
     - Git:
         - Gitの基礎: git/git-basics.md
         - ブランチを使った作業: git/branches.md
-        - GithubとHooks: git/github-hooks.md
+        - Githubとフック: git/github-hooks.md
         - まとめ: git/conclusion.md
     - Linuxネットワーキング:
         - はじめに: linux_networking/intro.md
