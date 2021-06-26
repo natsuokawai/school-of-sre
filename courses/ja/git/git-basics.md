@@ -8,11 +8,11 @@
       - [https://www.linkedin.com/learning/git-branches-merges-and-remotes/](https://www.linkedin.com/learning/git-branches-merges-and-remotes/)
       - [The Official Git Docs](https://git-scm.com/doc)
 
-## このコースに期待すること
+## このコースで扱うこと
 
 コンピュータサイエンス分野のエンジニアとして、バージョン管理ツールの知識を持つことはほぼ必須となります。現在、SVNやMercurialなど多くのバージョン管理ツールが存在しますが、Gitはおそらく最も使用されているツールであり、本コースではGitを扱います。このコースはGit 101から始まるわけではなく、前提条件としてGitの基本的な知識を求めていますが、様々なGitコマンドを実行する際に内部で何が起こっているかを詳細に説明しながら、皆さんが知っているGitの概念を再導入します。次回、gitコマンドを実行する際には、より自信を持ってエンターキーを押せるようになるでしょう。
 
-## このコースではカバーされないこと
+## このコースでは扱わないこと
 
 Gitの高度な使い方や内部実装の詳細について。
 
